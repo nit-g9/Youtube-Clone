@@ -11,10 +11,8 @@
 
 <h2 id="how-to-use">How to use:</h2>
 <br>
-  
   <li>Go to the directory</li>
   <li>Run the index.html file in your browser</li>
-  <li>Start Playing around the page<br></li>
 </ul>
 
 <h2 id="use-of-the-project">Use of the Project</h2>
