@@ -11,12 +11,6 @@
 
 <h2 id="how-to-use">How to use:</h2>
 <br>
-
-<ul>
-  <li>Download or clone the repository</li>
-<pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-</code></pre>
   
   <li>Go to the directory</li>
   <li>Run the index.html file in your browser</li>
@@ -26,14 +20,7 @@
 <h2 id="use-of-the-project">Use of the Project</h2>
 
 <p>
-By making this project, your skills will be enhanced and specially for CSS. This single project uses Flexbox, CSS Grid, Media Queries, etc. These are consider one of the most important concepts of CSS and these skills will be better after making this mini project.
-
-P.S. JavaScript will be added to this in Future updates!!
+By making this project, skills will be enhanced and specially for CSS. This single project uses Flexbox, CSS Grid, Media Queries, etc. These are consider one of the most important concepts of CSS and these skills will be better after making this mini project.
 </p>
 <br><br>
 
-<p>
-	<img src="https://user-images.githubusercontent.com/67221487/125255480-1ae78480-e319-11eb-8b96-5cf57bd1e929.PNG" alt="image">
-	<br><br>
-	<img src="https://user-images.githubusercontent.com/67221487/125257286-e4ab0480-e31a-11eb-8fda-b468eea097ae.PNG" alt="image">
-</p>
